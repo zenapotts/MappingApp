@@ -50,7 +50,7 @@ class SearchPage: UITableViewController, UISearchResultsUpdating {
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = self.tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as UITableViewCell
         if tableView == self.tableView {
-            cell.textLabel?.text = self.buildings[indexPath.row]
+           cell.textLabel?.text = self.buildings[indexPath.row]
         } else {
             cell.textLabel?.text = self.filteredBuildings[indexPath.row]
         }
