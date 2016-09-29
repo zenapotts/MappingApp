@@ -9,27 +9,27 @@
 import Foundation
 import UIKit
 
-class SearchPage: UITableViewController, UISearchResultsUpdating {
+class SearchPage: UITableViewController/*, UISearchResultsUpdating*/ {
     var buildings = ["ROZH 101", "ROZH 104", "WMEM 103", "SSC 3303", "SSC 2104"]
     var filteredBuildings = [String]()
     var directions = ["Directions, Directions, Directions, Directions, Directions, Directions, Directions, Directions, Directions, Directions, Directions, Directions", "Directions2, Directions2, Directions2, Directions2, Directions2, Directions2, Directions2, Directions2, Directions2, Directions2, Directions2, Directions2", "Directions3, Directions3, Directions3, Directions3, Directions3, Directions3, Directions3, Directions3, Directions3, Directions3, Directions3, Directions3", " Directions4, Directions4, Directions4, Directions4, Directions4, Directions4, Directions4, Directions4, Directions4, Directions4, Directions4, Directions4", "Directions5, Directions5, Directions5, Directions5, Directions5, Directions5, Directions5, Directions5, Directions5, Directions5, Directions5, Directions5"]
     var x = ["43.5322267", "43.5322267", "43.5322267", "43.5322267", "43.5322267"]
     var y = ["-80.2258579","-80.2258579","-80.2258579","-80.2258579","-80.2258579"]
-    var searchController: UISearchController!
-    var resultsController = UITableViewController()
+    //var searchController: UISearchController!
+    //var resultsController = UITableViewController()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.resultsController.tableView.dataSource = self
-        self.resultsController.tableView.delegate = self
-        self.searchController = UISearchController(searchResultsController: self.resultsController)
-        self.tableView.tableHeaderView = self.searchController.searchBar
-        self.searchController.searchResultsUpdater = self
-        self.searchController.dimsBackgroundDuringPresentation = false
+        //self.resultsController.tableView.dataSource = self
+        //self.resultsController.tableView.delegate = self
+        //self.searchController = UISearchController(searchResultsController: self.resultsController)
+        //self.tableView.tableHeaderView = self.searchController.searchBar
+        //self.searchController.searchResultsUpdater = self
+        //self.searchController.dimsBackgroundDuringPresentation = false
         definesPresentationContext = true
     }
     
-    func updateSearchResultsForSearchController(searchController: UISearchController) {
+    /*func updateSearchResultsForSearchController(searchController: UISearchController) {
         self.filteredBuildings = self.buildings.filter { (buildings:String) -> Bool in
             if buildings.containsString(self.searchController.searchBar.text!){
                 return true
@@ -37,7 +37,7 @@ class SearchPage: UITableViewController, UISearchResultsUpdating {
             return false
         }
         self.resultsController.tableView.reloadData()
-    }
+    }*/
     
     override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         if tableView == self.tableView{
