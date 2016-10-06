@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "193B6D041D4D7D4300B49FAF"
-               BuildableName = "classQuest.app"
-               BlueprintName = "classQuest"
-               ReferencedContainer = "container:classQuest.xcodeproj">
+               BlueprintIdentifier = "19FA5F2E1DA62AE00045A910"
+               BuildableName = "ClassQuest.app"
+               BlueprintName = "ClassQuest"
+               ReferencedContainer = "container:ClassQuest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "193B6D181D4D7D4300B49FAF"
-               BuildableName = "classQuestTests.xctest"
-               BlueprintName = "classQuestTests"
-               ReferencedContainer = "container:classQuest.xcodeproj">
+               BlueprintIdentifier = "19FA5F421DA62AE00045A910"
+               BuildableName = "ClassQuestTests.xctest"
+               BlueprintName = "ClassQuestTests"
+               ReferencedContainer = "container:ClassQuest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "193B6D231D4D7D4300B49FAF"
-               BuildableName = "classQuestUITests.xctest"
-               BlueprintName = "classQuestUITests"
-               ReferencedContainer = "container:classQuest.xcodeproj">
+               BlueprintIdentifier = "19FA5F4D1DA62AE00045A910"
+               BuildableName = "ClassQuestUITests.xctest"
+               BlueprintName = "ClassQuestUITests"
+               ReferencedContainer = "container:ClassQuest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "193B6D041D4D7D4300B49FAF"
-            BuildableName = "classQuest.app"
-            BlueprintName = "classQuest"
-            ReferencedContainer = "container:classQuest.xcodeproj">
+            BlueprintIdentifier = "19FA5F2E1DA62AE00045A910"
+            BuildableName = "ClassQuest.app"
+            BlueprintName = "ClassQuest"
+            ReferencedContainer = "container:ClassQuest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "193B6D041D4D7D4300B49FAF"
-            BuildableName = "classQuest.app"
-            BlueprintName = "classQuest"
-            ReferencedContainer = "container:classQuest.xcodeproj">
+            BlueprintIdentifier = "19FA5F2E1DA62AE00045A910"
+            BuildableName = "ClassQuest.app"
+            BlueprintName = "ClassQuest"
+            ReferencedContainer = "container:ClassQuest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "193B6D041D4D7D4300B49FAF"
-            BuildableName = "classQuest.app"
-            BlueprintName = "classQuest"
-            ReferencedContainer = "container:classQuest.xcodeproj">
+            BlueprintIdentifier = "19FA5F2E1DA62AE00045A910"
+            BuildableName = "ClassQuest.app"
+            BlueprintName = "ClassQuest"
+            ReferencedContainer = "container:ClassQuest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,6 +1,6 @@
 //
 //  MapPage.swift
-//  classQuest
+//  ClassQuest
 //
 //  Created by zz on 2016-07-30.
 //  Copyright © 2016 Zena Potts. All rights reserved.
@@ -8,35 +8,31 @@
 
 import Foundation
 import UIKit
+import GoogleMaps
 
 class MapPage: UIViewController {
     
-    @IBOutlet weak var BuildingName: UILabel!
-    @IBOutlet weak var DirectionsText: UITextView!
-    
-    var buildingsString = String()
-    var directionsString = String()
-    var latitudeString = String()
-    var longitudeString = String()
-    var xString = String()
-    var yString = String()
+    var buildingsPass = String()
+    var xPass = String()
+    var yPass = String()
+    var x = Double()
+    var y = Double()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        BuildingName.text = buildingsString
-        DirectionsText.text = directionsString
+        let x = Double(xPass)
+        let y = Double(yPass)
+        let camera = GMSCameraPosition.cameraWithLatitude(x!,longitude: y!, zoom: 15)
+        let mapView = GMSMapView.mapWithFrame(.zero, camera: camera)
+        mapView.myLocationEnabled = true
+        self.view = mapView
+        let marker = GMSMarker()
+        marker.position = CLLocationCoordinate2DMake(x!, y!)
+        marker.title = buildingsPass
+        marker.map = mapView
     }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-    }
-    
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        if (segue.identifier == "GoToMap"){
-            let destinationTwo = segue.destinationViewController as? Map
-            destinationTwo!.buildingsStringNew = buildingsString
-            destinationTwo!.xStringNew = xString
-            destinationTwo!.yStringNew = yString
-        }
     }
 }

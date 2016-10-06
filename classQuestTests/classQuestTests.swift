@@ -1,15 +1,15 @@
 //
-//  classQuestTests.swift
-//  classQuestTests
+//  ClassQuestTests.swift
+//  ClassQuestTests
 //
-//  Created by zz on 2016-07-30.
-//  Copyright © 2016 Zena Potts. All rights reserved.
+//  Created by Zena on 2016-10-06.
+//  Copyright © 2016 Zena. All rights reserved.
 //
 
 import XCTest
-@testable import classQuest
+@testable import ClassQuest
 
-class classQuestTests: XCTestCase {
+class ClassQuestTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

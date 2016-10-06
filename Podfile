@@ -3,17 +3,17 @@ pod 'GoogleMaps'
 platform :ios, '9.0'
 pod 'GoogleMaps'
 
-target 'classQuest' do
+target 'ClassQuest' do
   use_frameworks!
 
-  # Pods for classQuest
+  # Pods for ClassQuest
 
-  target 'classQuestTests' do
+  target 'ClassQuestTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'classQuestUITests' do
+  target 'ClassQuestUITests' do
     inherit! :search_paths
     # Pods for testing
   end

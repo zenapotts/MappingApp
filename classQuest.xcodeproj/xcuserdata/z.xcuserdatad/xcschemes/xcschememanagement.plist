@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>classQuest.xcscheme</key>
+		<key>ClassQuest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>193B6D041D4D7D4300B49FAF</key>
+		<key>19FA5F2E1DA62AE00045A910</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>193B6D181D4D7D4300B49FAF</key>
+		<key>19FA5F421DA62AE00045A910</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>193B6D231D4D7D4300B49FAF</key>
+		<key>19FA5F4D1DA62AE00045A910</key>
 		<dict>
 			<key>primary</key>
 			<true/>

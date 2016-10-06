@@ -1,14 +1,14 @@
 //
-//  classQuestUITests.swift
-//  classQuestUITests
+//  ClassQuestUITests.swift
+//  ClassQuestUITests
 //
-//  Created by zz on 2016-07-30.
-//  Copyright © 2016 Zena Potts. All rights reserved.
+//  Created by Zena on 2016-10-06.
+//  Copyright © 2016 Zena. All rights reserved.
 //
 
 import XCTest
 
-class classQuestUITests: XCTestCase {
+class ClassQuestUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

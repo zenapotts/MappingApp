@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  classQuest
+//  ClassQuest
 //
 //  Created by zz on 2016-07-30.
 //  Copyright © 2016 Zena Potts. All rights reserved.

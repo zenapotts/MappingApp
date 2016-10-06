@@ -7,258 +7,258 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		193B6D091D4D7D4300B49FAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193B6D081D4D7D4300B49FAF /* AppDelegate.swift */; };
-		193B6D0E1D4D7D4300B49FAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193B6D0C1D4D7D4300B49FAF /* Main.storyboard */; };
-		193B6D101D4D7D4300B49FAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 193B6D0F1D4D7D4300B49FAF /* Assets.xcassets */; };
-		193B6D131D4D7D4300B49FAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193B6D111D4D7D4300B49FAF /* LaunchScreen.storyboard */; };
-		193B6D1E1D4D7D4300B49FAF /* classQuestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193B6D1D1D4D7D4300B49FAF /* classQuestTests.swift */; };
-		193B6D291D4D7D4300B49FAF /* classQuestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193B6D281D4D7D4300B49FAF /* classQuestUITests.swift */; };
-		193B6D371D4D7DF300B49FAF /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193B6D361D4D7DF300B49FAF /* SearchPage.swift */; };
-		193B6D391D4D7DFC00B49FAF /* MapPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193B6D381D4D7DFC00B49FAF /* MapPage.swift */; };
-		193B6D3B1D4D7E0100B49FAF /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193B6D3A1D4D7E0100B49FAF /* Map.swift */; };
-		7932924240986C9FD668D656 /* Pods_classQuest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B5BC9F64DA4C6D7E5335B80 /* Pods_classQuest.framework */; };
-		7F427A1B2B766F5C4ED997D1 /* Pods_classQuestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C2080BE657A996573DAE276 /* Pods_classQuestUITests.framework */; };
-		EFEFDE3F97163A221D8FF7FF /* Pods_classQuestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6218B5C13581B45AFD612244 /* Pods_classQuestTests.framework */; };
+		19FA5F331DA62AE00045A910 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FA5F321DA62AE00045A910 /* AppDelegate.swift */; };
+		19FA5F381DA62AE00045A910 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19FA5F361DA62AE00045A910 /* Main.storyboard */; };
+		19FA5F3A1DA62AE00045A910 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19FA5F391DA62AE00045A910 /* Assets.xcassets */; };
+		19FA5F3D1DA62AE00045A910 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19FA5F3B1DA62AE00045A910 /* LaunchScreen.storyboard */; };
+		19FA5F481DA62AE00045A910 /* ClassQuestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FA5F471DA62AE00045A910 /* ClassQuestTests.swift */; };
+		19FA5F531DA62AE00045A910 /* ClassQuestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FA5F521DA62AE00045A910 /* ClassQuestUITests.swift */; };
+		19FA5F611DA62B030045A910 /* Data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 19FA5F601DA62B030045A910 /* Data.plist */; };
+		19FA5F631DA62B1D0045A910 /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FA5F621DA62B1D0045A910 /* SearchPage.swift */; };
+		19FA5F651DA62B2E0045A910 /* MapPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FA5F641DA62B2E0045A910 /* MapPage.swift */; };
+		74EEC46621C92D793B08AB7F /* Pods_ClassQuestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6939A8CA14F46DD48C15624E /* Pods_ClassQuestTests.framework */; };
+		A959E36B6FFFB23840268F4C /* Pods_ClassQuest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52C13A383D2A62E45DF7BE5A /* Pods_ClassQuest.framework */; };
+		DB13412C4779EC6B93E32512 /* Pods_ClassQuestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F35DC32CA62BBE7AE06E49A9 /* Pods_ClassQuestUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		193B6D1A1D4D7D4300B49FAF /* PBXContainerItemProxy */ = {
+		19FA5F441DA62AE00045A910 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 193B6CFD1D4D7D4300B49FAF /* Project object */;
+			containerPortal = 19FA5F271DA62AE00045A910 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 193B6D041D4D7D4300B49FAF;
-			remoteInfo = classQuest;
+			remoteGlobalIDString = 19FA5F2E1DA62AE00045A910;
+			remoteInfo = ClassQuest;
 		};
-		193B6D251D4D7D4300B49FAF /* PBXContainerItemProxy */ = {
+		19FA5F4F1DA62AE00045A910 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 193B6CFD1D4D7D4300B49FAF /* Project object */;
+			containerPortal = 19FA5F271DA62AE00045A910 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 193B6D041D4D7D4300B49FAF;
-			remoteInfo = classQuest;
+			remoteGlobalIDString = 19FA5F2E1DA62AE00045A910;
+			remoteInfo = ClassQuest;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0C2080BE657A996573DAE276 /* Pods_classQuestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_classQuestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		193B6D051D4D7D4300B49FAF /* classQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = classQuest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		193B6D081D4D7D4300B49FAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		193B6D0D1D4D7D4300B49FAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		193B6D0F1D4D7D4300B49FAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		193B6D121D4D7D4300B49FAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		193B6D141D4D7D4300B49FAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		193B6D191D4D7D4300B49FAF /* classQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = classQuestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		193B6D1D1D4D7D4300B49FAF /* classQuestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classQuestTests.swift; sourceTree = "<group>"; };
-		193B6D1F1D4D7D4300B49FAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		193B6D241D4D7D4300B49FAF /* classQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = classQuestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		193B6D281D4D7D4300B49FAF /* classQuestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classQuestUITests.swift; sourceTree = "<group>"; };
-		193B6D2A1D4D7D4300B49FAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		193B6D361D4D7DF300B49FAF /* SearchPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchPage.swift; sourceTree = "<group>"; };
-		193B6D381D4D7DFC00B49FAF /* MapPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapPage.swift; sourceTree = "<group>"; };
-		193B6D3A1D4D7E0100B49FAF /* Map.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
-		2B5BC9F64DA4C6D7E5335B80 /* Pods_classQuest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_classQuest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		36F0583DF8ACB4C191C74D18 /* Pods-classQuest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-classQuest.release.xcconfig"; path = "Pods/Target Support Files/Pods-classQuest/Pods-classQuest.release.xcconfig"; sourceTree = "<group>"; };
-		4E6AEA9691F5C83EC6DC03BD /* Pods-classQuestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-classQuestTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-classQuestTests/Pods-classQuestTests.debug.xcconfig"; sourceTree = "<group>"; };
-		6218B5C13581B45AFD612244 /* Pods_classQuestTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_classQuestTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9FD86803EDE8062AE22613D1 /* Pods-classQuestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-classQuestTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-classQuestTests/Pods-classQuestTests.release.xcconfig"; sourceTree = "<group>"; };
-		E4A187D64134551FDE169472 /* Pods-classQuestUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-classQuestUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-classQuestUITests/Pods-classQuestUITests.release.xcconfig"; sourceTree = "<group>"; };
-		F529128D63C83A87E7F41050 /* Pods-classQuestUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-classQuestUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-classQuestUITests/Pods-classQuestUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		FFCEF0A2622D0BF4F569A5C1 /* Pods-classQuest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-classQuest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-classQuest/Pods-classQuest.debug.xcconfig"; sourceTree = "<group>"; };
+		18DE42A9D1AA47D31884F3CC /* Pods-ClassQuestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassQuestTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClassQuestTests/Pods-ClassQuestTests.debug.xcconfig"; sourceTree = "<group>"; };
+		19FA5F2F1DA62AE00045A910 /* ClassQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClassQuest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		19FA5F321DA62AE00045A910 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		19FA5F371DA62AE00045A910 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		19FA5F391DA62AE00045A910 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		19FA5F3C1DA62AE00045A910 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		19FA5F3E1DA62AE00045A910 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19FA5F431DA62AE00045A910 /* ClassQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClassQuestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		19FA5F471DA62AE00045A910 /* ClassQuestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassQuestTests.swift; sourceTree = "<group>"; };
+		19FA5F491DA62AE00045A910 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19FA5F4E1DA62AE00045A910 /* ClassQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClassQuestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		19FA5F521DA62AE00045A910 /* ClassQuestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassQuestUITests.swift; sourceTree = "<group>"; };
+		19FA5F541DA62AE00045A910 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19FA5F601DA62B030045A910 /* Data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Data.plist; sourceTree = "<group>"; };
+		19FA5F621DA62B1D0045A910 /* SearchPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchPage.swift; sourceTree = "<group>"; };
+		19FA5F641DA62B2E0045A910 /* MapPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapPage.swift; sourceTree = "<group>"; };
+		429EC1FEBF31E8159B1C6FBE /* Pods-ClassQuestUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassQuestUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClassQuestUITests/Pods-ClassQuestUITests.release.xcconfig"; sourceTree = "<group>"; };
+		52C13A383D2A62E45DF7BE5A /* Pods_ClassQuest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClassQuest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6939A8CA14F46DD48C15624E /* Pods_ClassQuestTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClassQuestTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		693F352F543A2F3CF4D14CC9 /* Pods-ClassQuestUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassQuestUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClassQuestUITests/Pods-ClassQuestUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		6A696B71A38808009AFACA1A /* Pods-ClassQuestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassQuestTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClassQuestTests/Pods-ClassQuestTests.release.xcconfig"; sourceTree = "<group>"; };
+		C1695F4E9A5D9A032B210EE3 /* Pods-ClassQuest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassQuest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClassQuest/Pods-ClassQuest.debug.xcconfig"; sourceTree = "<group>"; };
+		E8AB1566DBE89550C1A655D9 /* Pods-ClassQuest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassQuest.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClassQuest/Pods-ClassQuest.release.xcconfig"; sourceTree = "<group>"; };
+		F35DC32CA62BBE7AE06E49A9 /* Pods_ClassQuestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClassQuestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		193B6D021D4D7D4300B49FAF /* Frameworks */ = {
+		19FA5F2C1DA62AE00045A910 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7932924240986C9FD668D656 /* Pods_classQuest.framework in Frameworks */,
+				A959E36B6FFFB23840268F4C /* Pods_ClassQuest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		193B6D161D4D7D4300B49FAF /* Frameworks */ = {
+		19FA5F401DA62AE00045A910 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EFEFDE3F97163A221D8FF7FF /* Pods_classQuestTests.framework in Frameworks */,
+				74EEC46621C92D793B08AB7F /* Pods_ClassQuestTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		193B6D211D4D7D4300B49FAF /* Frameworks */ = {
+		19FA5F4B1DA62AE00045A910 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F427A1B2B766F5C4ED997D1 /* Pods_classQuestUITests.framework in Frameworks */,
+				DB13412C4779EC6B93E32512 /* Pods_ClassQuestUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		193B6CFC1D4D7D4300B49FAF = {
+		00AF0698403982DA94C15910 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				193B6D071D4D7D4300B49FAF /* classQuest */,
-				193B6D1C1D4D7D4300B49FAF /* classQuestTests */,
-				193B6D271D4D7D4300B49FAF /* classQuestUITests */,
-				193B6D061D4D7D4300B49FAF /* Products */,
-				40974B599F71419E889CF20D /* Pods */,
-				68D3906E685E17DD5B504C39 /* Frameworks */,
+				52C13A383D2A62E45DF7BE5A /* Pods_ClassQuest.framework */,
+				6939A8CA14F46DD48C15624E /* Pods_ClassQuestTests.framework */,
+				F35DC32CA62BBE7AE06E49A9 /* Pods_ClassQuestUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		19FA5F261DA62AE00045A910 = {
+			isa = PBXGroup;
+			children = (
+				19FA5F311DA62AE00045A910 /* ClassQuest */,
+				19FA5F461DA62AE00045A910 /* ClassQuestTests */,
+				19FA5F511DA62AE00045A910 /* ClassQuestUITests */,
+				19FA5F301DA62AE00045A910 /* Products */,
+				54DDEB3A80923EAA5E7B8206 /* Pods */,
+				00AF0698403982DA94C15910 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		193B6D061D4D7D4300B49FAF /* Products */ = {
+		19FA5F301DA62AE00045A910 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				193B6D051D4D7D4300B49FAF /* classQuest.app */,
-				193B6D191D4D7D4300B49FAF /* classQuestTests.xctest */,
-				193B6D241D4D7D4300B49FAF /* classQuestUITests.xctest */,
+				19FA5F2F1DA62AE00045A910 /* ClassQuest.app */,
+				19FA5F431DA62AE00045A910 /* ClassQuestTests.xctest */,
+				19FA5F4E1DA62AE00045A910 /* ClassQuestUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		193B6D071D4D7D4300B49FAF /* classQuest */ = {
+		19FA5F311DA62AE00045A910 /* ClassQuest */ = {
 			isa = PBXGroup;
 			children = (
-				193B6D081D4D7D4300B49FAF /* AppDelegate.swift */,
-				193B6D361D4D7DF300B49FAF /* SearchPage.swift */,
-				193B6D381D4D7DFC00B49FAF /* MapPage.swift */,
-				193B6D3A1D4D7E0100B49FAF /* Map.swift */,
-				193B6D0C1D4D7D4300B49FAF /* Main.storyboard */,
-				193B6D0F1D4D7D4300B49FAF /* Assets.xcassets */,
-				193B6D111D4D7D4300B49FAF /* LaunchScreen.storyboard */,
-				193B6D141D4D7D4300B49FAF /* Info.plist */,
+				19FA5F321DA62AE00045A910 /* AppDelegate.swift */,
+				19FA5F621DA62B1D0045A910 /* SearchPage.swift */,
+				19FA5F641DA62B2E0045A910 /* MapPage.swift */,
+				19FA5F361DA62AE00045A910 /* Main.storyboard */,
+				19FA5F391DA62AE00045A910 /* Assets.xcassets */,
+				19FA5F3B1DA62AE00045A910 /* LaunchScreen.storyboard */,
+				19FA5F3E1DA62AE00045A910 /* Info.plist */,
+				19FA5F601DA62B030045A910 /* Data.plist */,
 			);
-			path = classQuest;
+			path = ClassQuest;
 			sourceTree = "<group>";
 		};
-		193B6D1C1D4D7D4300B49FAF /* classQuestTests */ = {
+		19FA5F461DA62AE00045A910 /* ClassQuestTests */ = {
 			isa = PBXGroup;
 			children = (
-				193B6D1D1D4D7D4300B49FAF /* classQuestTests.swift */,
-				193B6D1F1D4D7D4300B49FAF /* Info.plist */,
+				19FA5F471DA62AE00045A910 /* ClassQuestTests.swift */,
+				19FA5F491DA62AE00045A910 /* Info.plist */,
 			);
-			path = classQuestTests;
+			path = ClassQuestTests;
 			sourceTree = "<group>";
 		};
-		193B6D271D4D7D4300B49FAF /* classQuestUITests */ = {
+		19FA5F511DA62AE00045A910 /* ClassQuestUITests */ = {
 			isa = PBXGroup;
 			children = (
-				193B6D281D4D7D4300B49FAF /* classQuestUITests.swift */,
-				193B6D2A1D4D7D4300B49FAF /* Info.plist */,
+				19FA5F521DA62AE00045A910 /* ClassQuestUITests.swift */,
+				19FA5F541DA62AE00045A910 /* Info.plist */,
 			);
-			path = classQuestUITests;
+			path = ClassQuestUITests;
 			sourceTree = "<group>";
 		};
-		40974B599F71419E889CF20D /* Pods */ = {
+		54DDEB3A80923EAA5E7B8206 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				FFCEF0A2622D0BF4F569A5C1 /* Pods-classQuest.debug.xcconfig */,
-				36F0583DF8ACB4C191C74D18 /* Pods-classQuest.release.xcconfig */,
-				4E6AEA9691F5C83EC6DC03BD /* Pods-classQuestTests.debug.xcconfig */,
-				9FD86803EDE8062AE22613D1 /* Pods-classQuestTests.release.xcconfig */,
-				F529128D63C83A87E7F41050 /* Pods-classQuestUITests.debug.xcconfig */,
-				E4A187D64134551FDE169472 /* Pods-classQuestUITests.release.xcconfig */,
+				C1695F4E9A5D9A032B210EE3 /* Pods-ClassQuest.debug.xcconfig */,
+				E8AB1566DBE89550C1A655D9 /* Pods-ClassQuest.release.xcconfig */,
+				18DE42A9D1AA47D31884F3CC /* Pods-ClassQuestTests.debug.xcconfig */,
+				6A696B71A38808009AFACA1A /* Pods-ClassQuestTests.release.xcconfig */,
+				693F352F543A2F3CF4D14CC9 /* Pods-ClassQuestUITests.debug.xcconfig */,
+				429EC1FEBF31E8159B1C6FBE /* Pods-ClassQuestUITests.release.xcconfig */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		68D3906E685E17DD5B504C39 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				2B5BC9F64DA4C6D7E5335B80 /* Pods_classQuest.framework */,
-				6218B5C13581B45AFD612244 /* Pods_classQuestTests.framework */,
-				0C2080BE657A996573DAE276 /* Pods_classQuestUITests.framework */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		193B6D041D4D7D4300B49FAF /* classQuest */ = {
+		19FA5F2E1DA62AE00045A910 /* ClassQuest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 193B6D2D1D4D7D4300B49FAF /* Build configuration list for PBXNativeTarget "classQuest" */;
+			buildConfigurationList = 19FA5F571DA62AE00045A910 /* Build configuration list for PBXNativeTarget "ClassQuest" */;
 			buildPhases = (
-				58C697AA7BC3448E569A6110 /* [CP] Check Pods Manifest.lock */,
-				193B6D011D4D7D4300B49FAF /* Sources */,
-				193B6D021D4D7D4300B49FAF /* Frameworks */,
-				193B6D031D4D7D4300B49FAF /* Resources */,
-				44725DDCF7423FED85C7145A /* [CP] Embed Pods Frameworks */,
-				101350039C2F0412208BFF9B /* [CP] Copy Pods Resources */,
+				E34385CAB734BB3F0977E279 /* [CP] Check Pods Manifest.lock */,
+				19FA5F2B1DA62AE00045A910 /* Sources */,
+				19FA5F2C1DA62AE00045A910 /* Frameworks */,
+				19FA5F2D1DA62AE00045A910 /* Resources */,
+				27ED8F9856ADB41BBCA57B3E /* [CP] Embed Pods Frameworks */,
+				89CBEEB6832AA455C259F4E9 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = classQuest;
-			productName = classQuest;
-			productReference = 193B6D051D4D7D4300B49FAF /* classQuest.app */;
+			name = ClassQuest;
+			productName = ClassQuest;
+			productReference = 19FA5F2F1DA62AE00045A910 /* ClassQuest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		193B6D181D4D7D4300B49FAF /* classQuestTests */ = {
+		19FA5F421DA62AE00045A910 /* ClassQuestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 193B6D301D4D7D4300B49FAF /* Build configuration list for PBXNativeTarget "classQuestTests" */;
+			buildConfigurationList = 19FA5F5A1DA62AE00045A910 /* Build configuration list for PBXNativeTarget "ClassQuestTests" */;
 			buildPhases = (
-				D7CF7FFF4868EA49EEC8055C /* [CP] Check Pods Manifest.lock */,
-				193B6D151D4D7D4300B49FAF /* Sources */,
-				193B6D161D4D7D4300B49FAF /* Frameworks */,
-				193B6D171D4D7D4300B49FAF /* Resources */,
-				AC9BE2BBE732737FD6E0EABF /* [CP] Embed Pods Frameworks */,
-				8F29C0F143E02F7FE6BED159 /* [CP] Copy Pods Resources */,
+				38DB815A84161478B6FEFFC1 /* [CP] Check Pods Manifest.lock */,
+				19FA5F3F1DA62AE00045A910 /* Sources */,
+				19FA5F401DA62AE00045A910 /* Frameworks */,
+				19FA5F411DA62AE00045A910 /* Resources */,
+				A422690D0C0EED180EFF0EEF /* [CP] Embed Pods Frameworks */,
+				A17D8CDC8FF3071EAD73DE7A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				193B6D1B1D4D7D4300B49FAF /* PBXTargetDependency */,
+				19FA5F451DA62AE00045A910 /* PBXTargetDependency */,
 			);
-			name = classQuestTests;
-			productName = classQuestTests;
-			productReference = 193B6D191D4D7D4300B49FAF /* classQuestTests.xctest */;
+			name = ClassQuestTests;
+			productName = ClassQuestTests;
+			productReference = 19FA5F431DA62AE00045A910 /* ClassQuestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		193B6D231D4D7D4300B49FAF /* classQuestUITests */ = {
+		19FA5F4D1DA62AE00045A910 /* ClassQuestUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 193B6D331D4D7D4300B49FAF /* Build configuration list for PBXNativeTarget "classQuestUITests" */;
+			buildConfigurationList = 19FA5F5D1DA62AE00045A910 /* Build configuration list for PBXNativeTarget "ClassQuestUITests" */;
 			buildPhases = (
-				BC3002613C70D4A0E09D885F /* [CP] Check Pods Manifest.lock */,
-				193B6D201D4D7D4300B49FAF /* Sources */,
-				193B6D211D4D7D4300B49FAF /* Frameworks */,
-				193B6D221D4D7D4300B49FAF /* Resources */,
-				5E59275412CCE361F253FF35 /* [CP] Copy Pods Resources */,
+				572A96B0897B9D5DA7C059D3 /* [CP] Check Pods Manifest.lock */,
+				19FA5F4A1DA62AE00045A910 /* Sources */,
+				19FA5F4B1DA62AE00045A910 /* Frameworks */,
+				19FA5F4C1DA62AE00045A910 /* Resources */,
+				590EFB68BA15960EF4CB1B81 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				193B6D261D4D7D4300B49FAF /* PBXTargetDependency */,
+				19FA5F501DA62AE00045A910 /* PBXTargetDependency */,
 			);
-			name = classQuestUITests;
-			productName = classQuestUITests;
-			productReference = 193B6D241D4D7D4300B49FAF /* classQuestUITests.xctest */;
+			name = ClassQuestUITests;
+			productName = ClassQuestUITests;
+			productReference = 19FA5F4E1DA62AE00045A910 /* ClassQuestUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		193B6CFD1D4D7D4300B49FAF /* Project object */ = {
+		19FA5F271DA62AE00045A910 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "Zena Potts";
+				ORGANIZATIONNAME = Zena;
 				TargetAttributes = {
-					193B6D041D4D7D4300B49FAF = {
+					19FA5F2E1DA62AE00045A910 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
-					193B6D181D4D7D4300B49FAF = {
+					19FA5F421DA62AE00045A910 = {
 						CreatedOnToolsVersion = 7.3.1;
-						TestTargetID = 193B6D041D4D7D4300B49FAF;
+						TestTargetID = 19FA5F2E1DA62AE00045A910;
 					};
-					193B6D231D4D7D4300B49FAF = {
+					19FA5F4D1DA62AE00045A910 = {
 						CreatedOnToolsVersion = 7.3.1;
-						TestTargetID = 193B6D041D4D7D4300B49FAF;
+						TestTargetID = 19FA5F2E1DA62AE00045A910;
 					};
 				};
 			};
-			buildConfigurationList = 193B6D001D4D7D4300B49FAF /* Build configuration list for PBXProject "classQuest" */;
+			buildConfigurationList = 19FA5F2A1DA62AE00045A910 /* Build configuration list for PBXProject "ClassQuest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -266,37 +266,38 @@
 				en,
 				Base,
 			);
-			mainGroup = 193B6CFC1D4D7D4300B49FAF;
-			productRefGroup = 193B6D061D4D7D4300B49FAF /* Products */;
+			mainGroup = 19FA5F261DA62AE00045A910;
+			productRefGroup = 19FA5F301DA62AE00045A910 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				193B6D041D4D7D4300B49FAF /* classQuest */,
-				193B6D181D4D7D4300B49FAF /* classQuestTests */,
-				193B6D231D4D7D4300B49FAF /* classQuestUITests */,
+				19FA5F2E1DA62AE00045A910 /* ClassQuest */,
+				19FA5F421DA62AE00045A910 /* ClassQuestTests */,
+				19FA5F4D1DA62AE00045A910 /* ClassQuestUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		193B6D031D4D7D4300B49FAF /* Resources */ = {
+		19FA5F2D1DA62AE00045A910 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				193B6D131D4D7D4300B49FAF /* LaunchScreen.storyboard in Resources */,
-				193B6D101D4D7D4300B49FAF /* Assets.xcassets in Resources */,
-				193B6D0E1D4D7D4300B49FAF /* Main.storyboard in Resources */,
+				19FA5F3D1DA62AE00045A910 /* LaunchScreen.storyboard in Resources */,
+				19FA5F3A1DA62AE00045A910 /* Assets.xcassets in Resources */,
+				19FA5F611DA62B030045A910 /* Data.plist in Resources */,
+				19FA5F381DA62AE00045A910 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		193B6D171D4D7D4300B49FAF /* Resources */ = {
+		19FA5F411DA62AE00045A910 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		193B6D221D4D7D4300B49FAF /* Resources */ = {
+		19FA5F4C1DA62AE00045A910 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -306,22 +307,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		101350039C2F0412208BFF9B /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-classQuest/Pods-classQuest-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		44725DDCF7423FED85C7145A /* [CP] Embed Pods Frameworks */ = {
+		27ED8F9856ADB41BBCA57B3E /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -333,10 +319,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-classQuest/Pods-classQuest-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassQuest/Pods-ClassQuest-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		58C697AA7BC3448E569A6110 /* [CP] Check Pods Manifest.lock */ = {
+		38DB815A84161478B6FEFFC1 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -351,52 +337,7 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		5E59275412CCE361F253FF35 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-classQuestUITests/Pods-classQuestUITests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8F29C0F143E02F7FE6BED159 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-classQuestTests/Pods-classQuestTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		AC9BE2BBE732737FD6E0EABF /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-classQuestTests/Pods-classQuestTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BC3002613C70D4A0E09D885F /* [CP] Check Pods Manifest.lock */ = {
+		572A96B0897B9D5DA7C059D3 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -411,7 +352,67 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		D7CF7FFF4868EA49EEC8055C /* [CP] Check Pods Manifest.lock */ = {
+		590EFB68BA15960EF4CB1B81 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassQuestUITests/Pods-ClassQuestUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		89CBEEB6832AA455C259F4E9 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassQuest/Pods-ClassQuest-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A17D8CDC8FF3071EAD73DE7A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassQuestTests/Pods-ClassQuestTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A422690D0C0EED180EFF0EEF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassQuestTests/Pods-ClassQuestTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E34385CAB734BB3F0977E279 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -429,61 +430,60 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		193B6D011D4D7D4300B49FAF /* Sources */ = {
+		19FA5F2B1DA62AE00045A910 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				193B6D391D4D7DFC00B49FAF /* MapPage.swift in Sources */,
-				193B6D371D4D7DF300B49FAF /* SearchPage.swift in Sources */,
-				193B6D3B1D4D7E0100B49FAF /* Map.swift in Sources */,
-				193B6D091D4D7D4300B49FAF /* AppDelegate.swift in Sources */,
+				19FA5F331DA62AE00045A910 /* AppDelegate.swift in Sources */,
+				19FA5F631DA62B1D0045A910 /* SearchPage.swift in Sources */,
+				19FA5F651DA62B2E0045A910 /* MapPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		193B6D151D4D7D4300B49FAF /* Sources */ = {
+		19FA5F3F1DA62AE00045A910 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				193B6D1E1D4D7D4300B49FAF /* classQuestTests.swift in Sources */,
+				19FA5F481DA62AE00045A910 /* ClassQuestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		193B6D201D4D7D4300B49FAF /* Sources */ = {
+		19FA5F4A1DA62AE00045A910 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				193B6D291D4D7D4300B49FAF /* classQuestUITests.swift in Sources */,
+				19FA5F531DA62AE00045A910 /* ClassQuestUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		193B6D1B1D4D7D4300B49FAF /* PBXTargetDependency */ = {
+		19FA5F451DA62AE00045A910 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 193B6D041D4D7D4300B49FAF /* classQuest */;
-			targetProxy = 193B6D1A1D4D7D4300B49FAF /* PBXContainerItemProxy */;
+			target = 19FA5F2E1DA62AE00045A910 /* ClassQuest */;
+			targetProxy = 19FA5F441DA62AE00045A910 /* PBXContainerItemProxy */;
 		};
-		193B6D261D4D7D4300B49FAF /* PBXTargetDependency */ = {
+		19FA5F501DA62AE00045A910 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 193B6D041D4D7D4300B49FAF /* classQuest */;
-			targetProxy = 193B6D251D4D7D4300B49FAF /* PBXContainerItemProxy */;
+			target = 19FA5F2E1DA62AE00045A910 /* ClassQuest */;
+			targetProxy = 19FA5F4F1DA62AE00045A910 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		193B6D0C1D4D7D4300B49FAF /* Main.storyboard */ = {
+		19FA5F361DA62AE00045A910 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				193B6D0D1D4D7D4300B49FAF /* Base */,
+				19FA5F371DA62AE00045A910 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		193B6D111D4D7D4300B49FAF /* LaunchScreen.storyboard */ = {
+		19FA5F3B1DA62AE00045A910 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				193B6D121D4D7D4300B49FAF /* Base */,
+				19FA5F3C1DA62AE00045A910 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -491,7 +491,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		193B6D2B1D4D7D4300B49FAF /* Debug */ = {
+		19FA5F551DA62AE00045A910 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -533,10 +533,11 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		193B6D2C1D4D7D4300B49FAF /* Release */ = {
+		19FA5F561DA62AE00045A910 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -570,124 +571,125 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		193B6D2E1D4D7D4300B49FAF /* Debug */ = {
+		19FA5F581DA62AE00045A910 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FFCEF0A2622D0BF4F569A5C1 /* Pods-classQuest.debug.xcconfig */;
+			baseConfigurationReference = C1695F4E9A5D9A032B210EE3 /* Pods-ClassQuest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = classQuest/Info.plist;
+				INFOPLIST_FILE = ClassQuest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ZenaPotts.classQuest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenapotts.classQuest.ClassQuest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		193B6D2F1D4D7D4300B49FAF /* Release */ = {
+		19FA5F591DA62AE00045A910 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 36F0583DF8ACB4C191C74D18 /* Pods-classQuest.release.xcconfig */;
+			baseConfigurationReference = E8AB1566DBE89550C1A655D9 /* Pods-ClassQuest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = classQuest/Info.plist;
+				INFOPLIST_FILE = ClassQuest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ZenaPotts.classQuest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenapotts.classQuest.ClassQuest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		193B6D311D4D7D4300B49FAF /* Debug */ = {
+		19FA5F5B1DA62AE00045A910 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4E6AEA9691F5C83EC6DC03BD /* Pods-classQuestTests.debug.xcconfig */;
+			baseConfigurationReference = 18DE42A9D1AA47D31884F3CC /* Pods-ClassQuestTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = classQuestTests/Info.plist;
+				INFOPLIST_FILE = ClassQuestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ZenaPotts.classQuestTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenapotts.classQuest.ClassQuestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/classQuest.app/classQuest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClassQuest.app/ClassQuest";
 			};
 			name = Debug;
 		};
-		193B6D321D4D7D4300B49FAF /* Release */ = {
+		19FA5F5C1DA62AE00045A910 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9FD86803EDE8062AE22613D1 /* Pods-classQuestTests.release.xcconfig */;
+			baseConfigurationReference = 6A696B71A38808009AFACA1A /* Pods-ClassQuestTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = classQuestTests/Info.plist;
+				INFOPLIST_FILE = ClassQuestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ZenaPotts.classQuestTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenapotts.classQuest.ClassQuestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/classQuest.app/classQuest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClassQuest.app/ClassQuest";
 			};
 			name = Release;
 		};
-		193B6D341D4D7D4300B49FAF /* Debug */ = {
+		19FA5F5E1DA62AE00045A910 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F529128D63C83A87E7F41050 /* Pods-classQuestUITests.debug.xcconfig */;
+			baseConfigurationReference = 693F352F543A2F3CF4D14CC9 /* Pods-ClassQuestUITests.debug.xcconfig */;
 			buildSettings = {
-				INFOPLIST_FILE = classQuestUITests/Info.plist;
+				INFOPLIST_FILE = ClassQuestUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ZenaPotts.classQuestUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenapotts.classQuest.ClassQuestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = classQuest;
+				TEST_TARGET_NAME = ClassQuest;
 			};
 			name = Debug;
 		};
-		193B6D351D4D7D4300B49FAF /* Release */ = {
+		19FA5F5F1DA62AE00045A910 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E4A187D64134551FDE169472 /* Pods-classQuestUITests.release.xcconfig */;
+			baseConfigurationReference = 429EC1FEBF31E8159B1C6FBE /* Pods-ClassQuestUITests.release.xcconfig */;
 			buildSettings = {
-				INFOPLIST_FILE = classQuestUITests/Info.plist;
+				INFOPLIST_FILE = ClassQuestUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ZenaPotts.classQuestUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenapotts.classQuest.ClassQuestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = classQuest;
+				TEST_TARGET_NAME = ClassQuest;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		193B6D001D4D7D4300B49FAF /* Build configuration list for PBXProject "classQuest" */ = {
+		19FA5F2A1DA62AE00045A910 /* Build configuration list for PBXProject "ClassQuest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				193B6D2B1D4D7D4300B49FAF /* Debug */,
-				193B6D2C1D4D7D4300B49FAF /* Release */,
+				19FA5F551DA62AE00045A910 /* Debug */,
+				19FA5F561DA62AE00045A910 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		193B6D2D1D4D7D4300B49FAF /* Build configuration list for PBXNativeTarget "classQuest" */ = {
+		19FA5F571DA62AE00045A910 /* Build configuration list for PBXNativeTarget "ClassQuest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				193B6D2E1D4D7D4300B49FAF /* Debug */,
-				193B6D2F1D4D7D4300B49FAF /* Release */,
+				19FA5F581DA62AE00045A910 /* Debug */,
+				19FA5F591DA62AE00045A910 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		193B6D301D4D7D4300B49FAF /* Build configuration list for PBXNativeTarget "classQuestTests" */ = {
+		19FA5F5A1DA62AE00045A910 /* Build configuration list for PBXNativeTarget "ClassQuestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				193B6D311D4D7D4300B49FAF /* Debug */,
-				193B6D321D4D7D4300B49FAF /* Release */,
+				19FA5F5B1DA62AE00045A910 /* Debug */,
+				19FA5F5C1DA62AE00045A910 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		193B6D331D4D7D4300B49FAF /* Build configuration list for PBXNativeTarget "classQuestUITests" */ = {
+		19FA5F5D1DA62AE00045A910 /* Build configuration list for PBXNativeTarget "ClassQuestUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				193B6D341D4D7D4300B49FAF /* Debug */,
-				193B6D351D4D7D4300B49FAF /* Release */,
+				19FA5F5E1DA62AE00045A910 /* Debug */,
+				19FA5F5F1DA62AE00045A910 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 193B6CFD1D4D7D4300B49FAF /* Project object */;
+	rootObject = 19FA5F271DA62AE00045A910 /* Project object */;
 }

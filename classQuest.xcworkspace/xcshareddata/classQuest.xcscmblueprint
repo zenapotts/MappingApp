@@ -7,14 +7,14 @@
     "C710BC644F89F5320F76D327A37E7D3D1AA16C67" : 0,
     "A00F3F5E48AEAB44EF1BEB1E872B042D1A410527" : 0
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DBDE6D69-A34F-4B3C-921F-3758F55BEAD1",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10D9699B-964D-4ABE-8622-EFEA63C0A9EC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "C710BC644F89F5320F76D327A37E7D3D1AA16C67" : "Old\/",
-    "A00F3F5E48AEAB44EF1BEB1E872B042D1A410527" : ".."
+    "C710BC644F89F5320F76D327A37E7D3D1AA16C67" : "MappingApp\/",
+    "A00F3F5E48AEAB44EF1BEB1E872B042D1A410527" : ""
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "classQuest",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ClassQuest",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "classQuest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ClassQuest.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zenapotts\/schoolStuff.git",
@@ -22,7 +22,7 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A00F3F5E48AEAB44EF1BEB1E872B042D1A410527"
     },
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zenapotts\/Old",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zenapotts\/MappingApp",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C710BC644F89F5320F76D327A37E7D3D1AA16C67"
     }
