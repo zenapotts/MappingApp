@@ -11,8 +11,8 @@ import UIKit
 
 class SearchPage: UITableViewController{
     var buildings = [String]()
-    var x = [String]()
-    var y = [String]()
+    var latitude = [String]()
+    var longitude = [String]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -24,8 +24,8 @@ class SearchPage: UITableViewController{
         let dict = NSDictionary(contentsOfFile: path!)
         
         buildings = dict!.objectForKey("Buildings") as! [String]
-        x = dict!.objectForKey("x") as! [String]
-        y = dict!.objectForKey("y") as! [String]
+        latitude = dict!.objectForKey("Latitude") as! [String]
+        longitude = dict!.objectForKey("Longitude") as! [String]
     }
     
     override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -46,8 +46,8 @@ class SearchPage: UITableViewController{
             let destination = segue.destinationViewController as? MapPage
             let Index = tableView.indexPathForSelectedRow?.row
             destination!.buildingsPass = buildings[Index!]
-            destination!.xPass = x[Index!]
-            destination!.yPass = y[Index!]
+            destination!.latitudePass = latitude[Index!]
+            destination!.longitudePass = longitude[Index!]
         }
     }
 }

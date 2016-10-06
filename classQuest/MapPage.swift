@@ -13,21 +13,21 @@ import GoogleMaps
 class MapPage: UIViewController {
     
     var buildingsPass = String()
-    var xPass = String()
-    var yPass = String()
-    var x = Double()
-    var y = Double()
+    var latitudePass = String()
+    var longitudePass = String()
+    var latitude = Double()
+    var longitude = Double()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        let x = Double(xPass)
-        let y = Double(yPass)
-        let camera = GMSCameraPosition.cameraWithLatitude(x!,longitude: y!, zoom: 15)
+        let latitude = Double(latitudePass)
+        let longitude = Double(longitudePass)
+        let camera = GMSCameraPosition.cameraWithLatitude(latitude!,longitude: longitude!, zoom: 10)
         let mapView = GMSMapView.mapWithFrame(.zero, camera: camera)
         mapView.myLocationEnabled = true
         self.view = mapView
         let marker = GMSMarker()
-        marker.position = CLLocationCoordinate2DMake(x!, y!)
+        marker.position = CLLocationCoordinate2DMake(latitude!, longitude!)
         marker.title = buildingsPass
         marker.map = mapView
     }
